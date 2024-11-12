@@ -1,4 +1,3 @@
-package Syntex;
 
 public class HelloWorld {
 

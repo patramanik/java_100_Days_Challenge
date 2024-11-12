@@ -1,4 +1,3 @@
-package TypeCasting;
 public class CharToInt {
     public static void main(String[] args) {
         System.out.println("Char To Int(automatically):");

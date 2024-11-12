@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "3. TypeCasting",
-        "4. Operators"
+        "4.Operators",
+        "3.TypeCasting",
+        "1.Syntex",
+        "2.Variables"
     ]
 }

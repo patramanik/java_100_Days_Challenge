@@ -1,5 +1,3 @@
-package Variables;
-
 public class MaltipulVariables {
    
     public static void main(String[] args) {
